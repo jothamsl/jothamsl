@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jotham
-- 👀 I’m interested in AI & Competitive Programming
-- 🌱 I’m currently learning the fundamentals of AI algorithms
+- 👀 I’m interested in Data Science, AI & Competitive Programming
+- 🌱 I’m currently learning Big Data and Data Analysis
 - 📫 How to reach me -> Look West
 
 <!---
