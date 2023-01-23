@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jotham
 - 👀 I’m interested in Data Science, AI and Web App Development
-- 🌱 I’m currently learning Big Data and Data Analysis
+- 🌱 I’m currently learning Nuxt 3 & Recommendation Systems
